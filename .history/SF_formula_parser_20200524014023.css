@@ -1,0 +1,36 @@
+#main {
+    width: 500px;
+    margin-left: 30%;
+}
+.fField {
+    /* margin-left: 10px; */
+    margin-top: 10px;
+    height: 100px;
+    width: 500px;
+    padding: 10px;
+    border: 1px solid black;
+}
+body {
+    background-color: lightgrey;
+}
+input[type=button] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    float:right;
+}
+#statusMsg {
+    height: 50px;
+    width: 500px;
+    border: 1px solid black;
+    background-color: white;
+    margin-top: 100px;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,15 @@
+.fField {
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 100px;
+    width: 500px;
+    padding: 10px;
+    border: 1px solid black;
+}
+body {
+    background-color: lightgrey;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
